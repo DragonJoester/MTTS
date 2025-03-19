@@ -2,4 +2,4 @@
 2075532
 # Tastiere
 - Trust
-- - Logitech
+- Logitech
